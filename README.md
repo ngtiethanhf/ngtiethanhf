@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ngtiethanhf?tab=repositories](https://github.com/ngtiethanhf?tab=repositories)
-
 - 📫 How to reach me **tienthanhptit2021@gmail.com**
 
 - ⚡ Fun fact **No toughness, no glory**

@@ -7,8 +7,9 @@
 
 - 📫 How to reach me **tienthanhptit2021@gmail.com**
 
-- ⚡ Fun fact **No toughness, no glory**
+- ⚡ Fun fact **i'm crazy with 020603**
 
+- 📝 Quotes **No toughness, no glory**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tienthanhisme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tienthanhisme" height="30" width="40" /></a>

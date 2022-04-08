@@ -31,7 +31,7 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media2.giphy.com/media/tocvxsZmNFpckwApmJ/giphy.gif?cid=790b761125690b55ff26dc8312c5294866d5d4e9519051b5&rid=giphy.gif&ct=s" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media4.giphy.com/media/Yqt9gdyKh4CaKo07KX/giphy.gif?cid=790b7611760db71be147e94e3a2ef78a96dedb3fb8ac7b9b&rid=giphy.gif&ct=s" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 

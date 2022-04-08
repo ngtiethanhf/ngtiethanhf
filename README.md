@@ -37,7 +37,7 @@
 
 ✔ Callme: ***Tie*** or ***Thanh***<br>
 ✔ I’m currently learning about **CPP**<br>
-✔ I’m a big fan of **Real Madrid CF.**<img src="https://giphy.com/stickers/realmadrid-tocvxsZmNFpckwApmJ" width="50" /><br>
+✔ I’m a big fan of **Real Madrid CF.**<img src="https://media2.giphy.com/media/tocvxsZmNFpckwApmJ/giphy.gif?cid=790b761125690b55ff26dc8312c5294866d5d4e9519051b5&rid=giphy.gif&ct=s" width="50" /><br>
 ✔ Quotes : *No toughness, no glory* <br><br><br><br>
  
 <h3 align="left">Languages and Tools:</h3>

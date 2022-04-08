@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/9AiB.gif" height="300"/>
+  <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="300"/>
 </p>
 <br>
 

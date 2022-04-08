@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dash.animaker.com/a/u/upzlw14453/image/84696nv.gif" height="250"/>
+  <img src="https://i.gifer.com/9AiB.gif" height="300"/>
 </p>
 <br>
 

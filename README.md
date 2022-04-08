@@ -7,10 +7,10 @@
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+<img src="https://img.shields.io/badge/Age-18-blue" />
+  <img src="https://img.shields.io/badge/Focus-CPP" />
+  <img src="https://img.shields.io/badge/Lives-Ha%20noi-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Nguyen Tien Thanh </h1>
@@ -26,7 +26,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Nguyen Tien Thanh a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>Posts and Telecommunications Institute of Technology</b>, Hanoi, Vietnam </a>. <br>
+    Hello, I am Nguyen Tien Thanh a <b>final year</b> undergraduate from <a href="https://portal.ptit.edu.vn/"> <b>Posts and Telecommunications Institute of Technology</b>, Hanoi, Vietnam </a>. <br>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />

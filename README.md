@@ -4,12 +4,11 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-18-blue" />
-  <img src="https://img.shields.io/badge/Focus-CPP" />
-  <img src="https://img.shields.io/badge/Lives-Ha%20noi-success" />
+  <img src="https://img.shields.io/badge/Focus-CPP-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Hanoi-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-brightgreen" />
 </p>
 <hr>

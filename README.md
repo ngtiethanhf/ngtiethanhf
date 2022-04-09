@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/387276/screenshots/6058460/planet_800x600.gif" height="300"/>
+  <img src="https://286832-886580-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/04/foundergif.gif" height="300"/>
 </p>
 <br>
 <p align="left"> 

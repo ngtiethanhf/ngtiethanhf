@@ -13,7 +13,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Nguyen Tien Thanh </h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=F71A00&background=FFFFFF00&lines=A+PTIT's+Student"> </h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=F71A00&background=FFFFFF00&lines=A+PTIT's+Student"></h3>
 <p align="center">
 <a href="https://www.hackerrank.com/TieThanhNguyen?hr_r=1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tienthanhisme/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>

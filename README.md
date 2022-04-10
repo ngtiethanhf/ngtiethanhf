@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/eQJzha6VFYQErpPDE9/giphy.gif" height="300"/>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngtiethanhf&label=Profile%20views&color=0e75b6&style=flat" alt="ngtiethanhf" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ngtiethanhf&label=Profile%20views&color=0e75b6&style=flat" alt="ngtiethanhf" /> </p>
 </p>
 <br>
 <p align="left"> 

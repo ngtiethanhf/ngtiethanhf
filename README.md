@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" height="300"/>
+  <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e4782igs91lz4vftm8miuwq8b1n3cgq03llmk8s70ar&rid=giphy.gif&ct=g" height="300"/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ngtiethanhf&label=Profile%20views&color=0e75b6&style=flat" alt="ngtiethanhf" /> </p>
 </p>
 <br>

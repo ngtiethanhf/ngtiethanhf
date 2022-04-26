@@ -28,7 +28,7 @@
     Hello, I am Nguyen Tien Thanh a <b>first year</b> undergraduate from <a href="https://portal.ptit.edu.vn/eng/"> <b>Posts and Telecommunications Institute of Technology</b></a>. <br>
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media1.giphy.com/media/6qqgGk1rTcN85n0sb7/giphy.gif?cid=790b7611e3e056dd1c23a37b0cd1b25df289f1b797b0fd64&rid=giphy.gif&ct=s" />

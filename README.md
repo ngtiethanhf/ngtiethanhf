@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tienthanhptit2021@gmail.com**
 
-- ⚡ Fun fact **Real Madrid's Supporter sice 2013**
+- ⚡ Fun fact **Real Madrid's Supporter since 2013**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

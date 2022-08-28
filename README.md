@@ -1,48 +1,25 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e4782igs91lz4vftm8miuwq8b1n3cgq03llmk8s70ar&rid=giphy.gif&ct=g" height="300"/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ngtiethanhf&label=Profile%20views&color=0e75b6&style=flat" alt="ngtiethanhf" /> </p>
-</p>
-<br>
-<p align="left"> 
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-18-blue" />
-  <img src="https://img.shields.io/badge/Focus-CPP-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Hanoi-grown" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Nguyen Tien Thanh </h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=F71A00&background=FFFFFF00&lines=🤖Welcome+to+my+profile"></h3>
-<p align="center">
-<a href="https://www.hackerrank.com/TieThanhNguyen?hr_r=1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tienthanhisme/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: mrfaker2k3@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-</p>
+<h1 align="center">Hi 👋, I'm Thanh</h1>
+<h3 align="center">A second year undergraduate from PTIT</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiiesn&label=Profile%20views&color=0e75b6&style=flat" alt="tiiesn" /> </p>
 
+- 🌱 I’m currently learning **Python**
 
-<p align="center">
-  <em>
-    Hello, I am Nguyen Tien Thanh a <b>first year</b> undergraduate from <a href="https://portal.ptit.edu.vn/eng/"> <b>Posts and Telecommunications Institute of Technology</b></a>. <br>
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" />
+- 📫 How to reach me **tienthanhptit2021@gmail.com**
+
+- ⚡ Fun fact **Real Madrid's Supporter sice 2013**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chickenwinner20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chickenwinner20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nguyen-thanh-208216237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-thanh-208216237" height="30" width="40" /></a>
+<a href="https://fb.com/tienthanhisme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tienthanhisme" height="30" width="40" /></a>
+<a href="https://instagram.com/tii3sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tii3sn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tienthanhptite21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tienthanhptite21" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tiiesn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tiiesn" height="30" width="40" /></a>
 </p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media1.giphy.com/media/6qqgGk1rTcN85n0sb7/giphy.gif?cid=790b7611e3e056dd1c23a37b0cd1b25df289f1b797b0fd64&rid=giphy.gif&ct=s" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***Tiiesn*** or ***Thanh***<br>
-✔ I’m currently learning about **CPP**<br>
-✔ I’m a big fan of **Real Madrid CF.**<br>
-✔ Quotes : *No toughness, no glory* <br><br><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiiesn&show_icons=true&locale=en" alt="tiiesn" /></p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiiesn&" alt="tiiesn" /></p>

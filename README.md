@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m tiiesn
+- 👋 Hi, I’m Thanh
 - 👀 I’m into ML 
 - 🌱 A junior student at PTIT 
 

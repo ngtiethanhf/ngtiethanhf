@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Thanh
-- 👀 I’m into ML 
+- 👀 I’m now diving into ML 
 - 🌱 A sophomore at PTIT 
 
 <div>
